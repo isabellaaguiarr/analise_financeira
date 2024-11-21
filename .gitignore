@@ -1,0 +1,35 @@
+# Ignorar o ambiente virtual
+.venv/
+venv/
+env/
+ENV/
+
+# Ignorar arquivos de configuração de ambiente
+*.env
+
+# Ignorar arquivos do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorar arquivos criados pelo sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar diretórios de build do Python
+build/
+dist/
+*.egg-info/
+
+# Ignorar arquivos de IDEs
+.vscode/
+.idea/
+
+# Ignorar pacotes instalados via pip
+pip-wheel-metadata/
