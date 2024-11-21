@@ -52,4 +52,4 @@
 Para iniciar o aplicativo, basta executar o seguinte comando:
 
 ```bash
-streamlit run frontend/app.py
+streamlit run app.py
